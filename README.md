@@ -139,9 +139,7 @@ Projects are stored in `projectlist.txt` with the following structure:
 - Multi-user support
 - Category/tag system for tasks
 
-## License
 
-[Specify your license here]
 
 ## 👤 Author
 
